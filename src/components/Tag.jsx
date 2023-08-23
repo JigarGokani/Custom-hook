@@ -4,7 +4,7 @@ import Spinner from "./Spinner";
 
 
 const Tag = () => {
-  const [tag, setTag] = useState("cat");
+  const [tag, setTag] = useState("dog");
   // const [gif, setGif] = useState("");
   // const [loading, setLoading] = useState(false);
 
